@@ -1,0 +1,5 @@
+/triex
+/bin/
+*.test
+*.out
+/tmp/
